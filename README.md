@@ -16,7 +16,7 @@ allow rapid screening of many organic crystal structures to identify new materia
 Python3, PyTorch, RDKit
      
 ## Usage
-Run the BandGapPredication.ipynb file and then please pass SMILE in the smilePredication function
+Run the BandGapPredication.ipynb file and then please pass SMILE representations in the smilePredication function
 
 ## Web interface
 The proposed model is freely available at: http://nsclbio.jbnu.ac.kr/tools/GraphBG/. This web server
