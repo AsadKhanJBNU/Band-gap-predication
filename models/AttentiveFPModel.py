@@ -56,7 +56,6 @@ class GATEConv(MessagePassing):
 
 
 class AttentiveFP(torch.nn.Module):
-
     def __init__(self, in_channels: int, hidden_channels: int,
                  out_channels: int,  num_layers: int,
                  num_timesteps: int, dropout: float = 0.0):
