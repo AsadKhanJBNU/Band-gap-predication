@@ -12,6 +12,12 @@ cross-validation. The performance evaluation measures for bang gap prediction by
 are significantly better than those of state-of-the-art methods. This model is realistic enough to
 allow rapid screening of many organic crystal structures to identify new materials accurately.
 
-# Web interface
+## Requirements 
+Python3, PyTorch, RDKit
+     
+## Usage
+Run the BandGapPredication.ipynb file and then please pass SMILE in the smilePredication function
+
+## Web interface
 The proposed model is freely available at: http://nsclbio.jbnu.ac.kr/tools/GraphBG/. This web server
 accepts SMILES representations as input and determines the band gap.
