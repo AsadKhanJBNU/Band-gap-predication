@@ -13,7 +13,7 @@ are significantly better than those of state-of-the-art methods. This model is r
 allow rapid screening of many organic crystal structures to identify new materials accurately.
 
 ## Data flow diagram
-[ModelFlowDiagramNew.pdf](https://github.com/AsadKhanJBNU/Band-gap-predication/files/10203913/ModelFlowDiagramNew.pdf)
+![Graphical_Abstract](https://user-images.githubusercontent.com/94437138/206943909-5ff17d92-7307-4b0b-82c4-fd79dffa378b.png)
 
 ## Requirements 
 Python3, PyTorch, RDKit
