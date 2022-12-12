@@ -12,6 +12,9 @@ cross-validation. The performance evaluation measures for bang gap prediction by
 are significantly better than those of state-of-the-art methods. This model is realistic enough to
 allow rapid screening of many organic crystal structures to identify new materials accurately.
 
+## Data flow diagram
+[ModelFlowDiagramNew.pdf](https://github.com/AsadKhanJBNU/Band-gap-predication/files/10203913/ModelFlowDiagramNew.pdf)
+
 ## Requirements 
 Python3, PyTorch, RDKit
      
