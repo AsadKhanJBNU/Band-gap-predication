@@ -24,7 +24,7 @@ The proposed model is freely available at: http://nsclbio.jbnu.ac.kr/tools/Graph
 accepts SMILES representations as input and determines the band gap.
 
 
-## Cite
+## Cite Paper
 
 @article{khan2023prediction,
   title={Prediction of organic material band gaps using graph attention network},
