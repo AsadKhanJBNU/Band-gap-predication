@@ -35,3 +35,6 @@ accepts SMILES representations as input and determines the band gap.
   year={2023},
   publisher={Elsevier}
 }
+
+## Developer Contact 
+(asadkhan@jbnu.ac.kr)
